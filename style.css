@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	background-size: cover;
+}
+span
+{
+	font-size: 20px;
+	color: red;
+}
+canvas
+{
+	background: rgb(243, 147, 206);
+	border-radius: 20px;
+}
+h1{
+	color: rgb(60, 121, 11);
+	background-color: rgb(250, 190, 79);
+	padding: 10px;
+	width: 50%;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+.btn-danger{
+	width: 10%;
+	font-size: 20px;
+}
